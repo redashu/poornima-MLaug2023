@@ -4,3 +4,9 @@
 
 <img src="proj1.png">
 
+### Intro to ANN 
+
+<img src="ann.png">
+
+
+
