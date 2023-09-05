@@ -8,5 +8,19 @@
 
 <img src="ann.png">
 
+### ANN revision 
+
+<img src="ann1.png">
+
+### cost / loss function 
+
+<img src="cost1.png">
+
+### activation function 
+
+<img src="act.png">
+
+
+
 
 
